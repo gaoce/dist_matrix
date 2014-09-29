@@ -1,0 +1,5 @@
+sample,"4 Yawkey Way, Boston, MA 02215","800 Boylston St, Boston, MA 02199","89 E 42nd St, New York, NY 10017","45 Rockefeller Plaza, New York, NY 10111"
+"4 Yawkey Way, Boston, MA 02215",0,1685,0,0
+"800 Boylston St, Boston, MA 02199",1685,0,0,0
+"89 E 42nd St, New York, NY 10017",0,0,0,1513
+"45 Rockefeller Plaza, New York, NY 10111",0,0,1513,0
